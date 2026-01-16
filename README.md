@@ -224,7 +224,6 @@ This project is open source and available for personal and commercial use.
 
 **Vishrut Shastri**
 - Full Stack Developer
-- Web Development Specialist
 
 ---
 

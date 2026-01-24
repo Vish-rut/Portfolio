@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website showcasing the work and skills of Vishrut Shastri, a Full Stack Web Developer specializing in React, Java, Python, and modern web technologies.
 
+🚀 Live Demo: [https://shopeasy-ecom.vercel.app/ ](https://portfolio-vishrut-15.vercel.app/)
+
 ## 🚀 Features
 
 - **Modern Design**: Clean, professional design inspired by contemporary UX principles
